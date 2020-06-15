@@ -1,0 +1,19 @@
+{
+  "name": "@bornfight/mediaelementes6wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MediaelementES6wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bornfight/mediaelementES6wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bornfight/mediaelementES6wrapper/issues"
+  },
+  "homepage": "https://github.com/bornfight/mediaelementES6wrapper#readme"
+}
